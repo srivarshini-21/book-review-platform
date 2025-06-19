@@ -4,16 +4,16 @@ A full-stack book review application built with React, Node.js, Express, and Mon
 
 Book Review Platform Screenshots <br>
 Login/Signup Page <br>
-<img src="https://github.com/user-attachments/assets/47d43f5f-e064-48bb-b157-9be09d807f91" alt="Login" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/47d43f5f-e064-48bb-b157-9be09d807f91" alt="Login" width="600" height="300">
 
 Books Page <br>
-<img src="https://github.com/user-attachments/assets/48f74e73-7092-4853-930a-3ee0282524e2" alt="Books" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/48f74e73-7092-4853-930a-3ee0282524e2" alt="Books" width="600" height="300">
 
 Reviews Page <br>
-<img src="https://github.com/user-attachments/assets/53725109-6cd1-42dc-8dfb-a1518c088c2a" alt="Reviews" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/53725109-6cd1-42dc-8dfb-a1518c088c2a" alt="Reviews" width="600" height="300">
 
 Profile page <br>
-<img src="https://github.com/user-attachments/assets/5cb01893-39e8-439f-92fd-dcdfafce65b1" alt="Profile" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/5cb01893-39e8-439f-92fd-dcdfafce65b1" alt="Profile" width="600" height="300">
 
 
 ## Features
