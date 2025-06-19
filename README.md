@@ -155,4 +155,3 @@ For questions or support, please contact:
 
 Srivarshini R S - srivarshini0402@gmail.com  
 Project Link: [https://github.com/srivarshini-21/book-review-platform](https://github.com/srivarshini-21/book-review-platform)
-```
