@@ -2,7 +2,19 @@
 
 A full-stack book review application built with React, Node.js, Express, and MongoDB.
 
-![Book Review Platform Screenshot](https://via.placeholder.com/800x400?text=Book+Review+Platform+Screenshot)
+Book Review Platform Screenshots <br>
+Login/Signup Page <br>
+<img src="https://github.com/user-attachments/assets/47d43f5f-e064-48bb-b157-9be09d807f91" alt="Login" width="400" height="300">
+
+Books Page <br>
+<img src="https://github.com/user-attachments/assets/48f74e73-7092-4853-930a-3ee0282524e2" alt="Books" width="400" height="300">
+
+Reviews Page <br>
+<img src="https://github.com/user-attachments/assets/53725109-6cd1-42dc-8dfb-a1518c088c2a" alt="Reviews" width="400" height="300">
+
+Profile page <br>
+<img src="https://github.com/user-attachments/assets/5cb01893-39e8-439f-92fd-dcdfafce65b1" alt="Profile" width="400" height="300">
+
 
 ## Features
 
@@ -81,31 +93,6 @@ Follow these steps to set up the development environment:
 
 3. Open your browser to [http://localhost:3000](http://localhost:3000)
 
-### Production Build
-
-1. Build the frontend:
-   ```bash
-   cd client
-   npm run build
-   ```
-
-2. Serve the frontend from the backend (add this to your server/index.js):
-   ```javascript
-   // Serve static assets if in production
-   if (process.env.NODE_ENV === 'production') {
-     app.use(express.static('client/build'));
-     
-     app.get('*', (req, res) => {
-       res.sendFile(path.resolve(__dirname, 'client', 'build', 'index.html'));
-     });
-   }
-   ```
-
-3. Start the production server:
-   ```bash
-   cd server
-   npm start
-   ```
 
 ## API Endpoints
 
@@ -162,24 +149,10 @@ For security, don't commit your `.env` file. Here are the variables you need:
 - `PORT`: Server port (default: 5000)
 - `JWT_SECRET`: For authentication (if implementing auth)
 
-## Contributing
-
-To contribute to this project:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or support, please contact:
 
-Your Name - your.email@example.com  
-Project Link: [https://github.com/yourusername/book-review-platform](https://github.com/yourusername/book-review-platform)
+Srivarshini R S - srivarshini0402@gmail.com  
+Project Link: [https://github.com/srivarshini-21/book-review-platform](https://github.com/srivarshini-21/book-review-platform)
 ```
